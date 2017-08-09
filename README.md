@@ -6,29 +6,8 @@
 
 Meta repo, used to:
 - record issues that are not specific to one repo - https://github.com/yunity/yunity/issues
-- have a main repo to attach our waffle board to - https://waffle.io/yunity/yunity
 
 No code here please :)
-## yunity setup
-This provides scripts to get the app up and running. The primary purpose is for
-developers to  get up and running easily.
-Please create an issue if this doesn't work out of the box for you, it's a work in progress :)
-
-It helps you to:
-
-- understand how to install system dependencies (information only)
-- clone the seperate repos
-- setup the application dependencies
-- setup the database and run the migrations
-- run/manage the application's processes using pm2
-
-### System and Application setup
-  Please follow our wiki's detailed instructions for [System Setup](https://yunity.atlassian.net/wiki/display/YUN/System+Setup)
-  and [Application Setup](https://yunity.atlassian.net/wiki/display/YUN/Application+Setup)
-
-### More information
-  You can also have a look into our wiki's [Development Team](https://yunity.atlassian.net/wiki/display/YUN/Development+Team)
-  to discover more information
 
 ## Thanks
 
